@@ -1,0 +1,2 @@
+# skel
+/etc/skel
